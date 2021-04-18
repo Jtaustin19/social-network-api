@@ -2,7 +2,6 @@
 
 This repo contains the back end functionality of a basic social media app! this will help the user get their database started.
 
-***
 
 ## Table of Contents
 * [Walkthrough Videos](#walkthrough-videos)
